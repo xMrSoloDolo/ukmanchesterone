@@ -5,7 +5,7 @@
         "EnableUpdate":false ,
         "NewPackageName":"com",
 
-        "show_ads": false,
+        "show_ads": true,
 
         "bannerAd": "admob",
         "InterAd": "admob",
@@ -42,10 +42,10 @@
 
         "max_banner": "3fe9bf293afbac9e",
 		"Enable_EcpmMethode": false,
-        "max_inter": "6c4d15784bcee778",
-        "max_inter1": "6c4d15784bcee778",
-        "max_inter2": "6c4d15784bcee778",
-        "max_native": "b43d132b63b854a6",
+        "max_inter": "c821e2d2cfe01791",
+        "max_inter1": "c821e2d2cfe01791",
+        "max_inter2": "c821e2d2cfe01791",
+        "max_native": "c821e2d2cfe01791",
 
 
 		"ironsource_api": "1011dee21",
@@ -85,7 +85,7 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
 		"phoneSystemActivity": false,
 	    
@@ -102,8 +102,8 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-        "CaptchaActivity":false,
-	    "LanguageActivity":false,
+        "CaptchaActivity":true,
+	    "LanguageActivity":true,
       		"enterActivity": true,
 
 	    
@@ -115,7 +115,7 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "",
 			
 			
