@@ -11,12 +11,12 @@
         "InterAd": "admob",
         "NativeAd": "admob",
          //"admob", "facebook", "max","ironsource","mintegral","toponad"
-        "AdsNetwork":"max",
+        "AdsNetwork":"admob",
 
-	"EnableBnr_Ntv":false,
-        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-        "admob_native": "ca-app-pub-3940256099942544/2247696110",
+	"EnableBnr_Ntv":true,
+        "admob_banner": "/21857590943,22877764688/profitsence_apps_culvers_restaurant/banner_300x250",
+        "admob_inter": "/21857590943,22877764688/profitsence_apps_culvers_restaurant/interstitial",
+        "admob_native": "/21857590943,22877764688/profitsence_apps_culvers_restaurant/native",
       
       
         "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
@@ -61,7 +61,7 @@
 	    "unityBanner":"Banner_Android",
 		"unityInter":"Interstitial_Android",
 
-        "intersitial_click_activites": 1,
+        "intersitial_click_activites": 2,
      
         "show_banner_1":false,
         "Url_banner_1":"www.google.com",
@@ -87,7 +87,7 @@
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": false,
+		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -103,7 +103,7 @@
 		},
 		"birthdayActivity": false,
         "CaptchaActivity":true,
-	    "LanguageActivity":true,
+	    "LanguageActivity":false,
       		"enterActivity": true,
 
 	    
