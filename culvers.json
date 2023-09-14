@@ -11,7 +11,7 @@
         "InterAd": "admob",
         "NativeAd": "admob",
          //"admob", "facebook", "max","ironsource","mintegral","toponad"
-        "AdsNetwork":"admob",
+        "AdsNetwork":"max",
 
 	"EnableBnr_Ntv":true,
         "admob_banner": "/21857590943,22877764688/profitsence_apps_culvers_restaurant/banner_300x250",
@@ -61,7 +61,7 @@
 	    "unityBanner":"Banner_Android",
 		"unityInter":"Interstitial_Android",
 
-        "intersitial_click_activites": 2,
+        "intersitial_click_activites": 1,
      
         "show_banner_1":false,
         "Url_banner_1":"www.google.com",
