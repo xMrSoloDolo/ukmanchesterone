@@ -11,7 +11,7 @@
         "InterAd": "admob",
         "NativeAd": "admob",
          //"admob", "facebook", "max","ironsource","mintegral","toponad"
-        "AdsNetwork":"max",
+        "AdsNetwork":"admob",
 
 	"EnableBnr_Ntv":true,
         "admob_banner": "/21857590943,22877764688/profitsence_apps_culvers_restaurant/banner_300x250",
