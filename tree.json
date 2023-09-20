@@ -5,7 +5,7 @@
         "EnableUpdate":false ,
         "NewPackageName":"com",
 
-        "show_ads": true,
+        "show_ads": false,
 
         "bannerAd": "admob",
         "InterAd": "admob",
@@ -42,10 +42,10 @@
 
         "max_banner": "3fe9bf293afbac9e",
 		"Enable_EcpmMethode": false,
-        "max_inter": "5bde0ab7b4cdaef9",
-        "max_inter1": "5bde0ab7b4cdaef9",
-        "max_inter2": "5bde0ab7b4cdaef9",
-        "max_native": "5bde0ab7b4cdaef9",
+        "max_inter": "7226ce1dcf2f256f",
+        "max_inter1": "7226ce1dcf2f256f",
+        "max_inter2": "7226ce1dcf2f256f",
+        "max_native": "b43d132b63b854a6",
 
 
 		"ironsource_api": "1011dee21",
@@ -87,11 +87,11 @@
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": true,
+		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": false,
-			"question": "you like this?",
+			"active": true,
+			"question": "you like shopping online?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
@@ -102,8 +102,8 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": true,
-        "CaptchaActivity":true,
-	    "LanguageActivity":true,
+        "CaptchaActivity":false,
+	    "LanguageActivity":false,
       		"enterActivity": false,
 
 	    
@@ -128,3 +128,4 @@
 		}
     }
 }
+
